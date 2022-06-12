@@ -1,0 +1,16 @@
+#Anchor
+.anchor
+target
+test-ledger
+
+#OS
+.DS_Store
+
+#build
+**/*.rs.bk
+
+#npm
+node_modules
+
+#Editor
+.idea
